@@ -30,30 +30,34 @@ All derivative articles, posts, and PDFs should link back to this repository.
 
 ---
 
-## Contents (coming next)
+## Contents
 
-- `CCFI.md` — Canonical framework definition  
-- `HOW_TO_USE_CCFI.md` — Practical application guide  
-- `WHITE_PAPER.md` — Professional shareable version  
-- `CHANGELOG.md` — Version history  
-- `CITATION.md` — How to cite this work
+- **[CCFI.md](CCFI.md)** — Canonical framework definition (v1.0)
+- **[HOW_TO_USE_CCFI.md](HOW_TO_USE_CCFI.md)** — Practical application guide
+- **[WHITE_PAPER.md](WHITE_PAPER.md)** — Professional shareable document
+- **[CHANGELOG.md](CHANGELOG.md)** — Version history and updates
+- **[CITATION.md](CITATION.md)** — How to cite this work
 
 ---
 
 ## License
 
-This framework will be released under a permissive Creative Commons license allowing reuse with attribution.  
-(Exact license details provided in a forthcoming commit.)
+This framework is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+You are free to share and adapt this work for any purpose, provided appropriate attribution is given.
+See the `LICENSE` file for full details.
 
 ---
 
 ## How to Reference
 
-Until a formal citation file is added, reference this work as:
-
-> Leighty, Jesse James. *Cognitive Control-Flow Interruption (CCFI): A control-flow metaphor for belief updating and learning-by-contradiction.* GitHub repository, 2026.
+Leighty, Jesse James.  
+*Cognitive Control-Flow Interruption (CCFI): A control-flow metaphor for belief updating and learning-by-contradiction.*  
+Version 1.0, 2026.  
+GitHub repository.
 
 ---
 
 CCFI is presented as a **framework and lens**, not a claim of scientific discovery.  
 Its purpose is clarity, ethical communication, and practical teaching—not persuasion or manipulation.
+not persuasion or manipulation.
